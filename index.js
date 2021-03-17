@@ -1,3 +1,3 @@
-$(document).ready(function() {
-    alert("hei");
+$(document).ready(function () {
+    // Her skal animasjoner til boksene havne
 });
